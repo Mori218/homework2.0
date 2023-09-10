@@ -1,4 +1,4 @@
-config cs2
+gconfig cs2
 cfgver "1"
 unbindall
 alias "+boing" "+jump"
